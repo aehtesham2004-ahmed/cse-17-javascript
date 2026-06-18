@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Employee Management System</h2>
+
+<input id="name" placeholder="Name">
+<input id="salary" placeholder="Salary">
+
+<button onclick="addEmployee()">Add Employee</button>
+
+<div id="result"></div>
+
+<script>
+
+let employees=[];
+
+function addEmployee(){
+
+let name=document.getElementById("name").value;
+let salary=document.getElementById("salary").value;
+
+employees.push({name,salary});
+
+let output="";
+
+employees.forEach(emp=>{
+output+=emp.name+" | "+emp.salary+"<br>";
+});
+
+document.getElementById("result").innerHTML=output;
+}
+
+</script>
+
+</body>
+</html>
