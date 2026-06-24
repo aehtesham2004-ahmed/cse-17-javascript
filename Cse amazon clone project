@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amazon</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <div class="navbar">
+
+      <div class="logo nav-logo border"><img src="" alt="Amazon Logo"></div>
+
+
+
+      <div class="nav-address border">
+        <p class="add-first">Delivering to Ghaziabad 110806 </p>
+        <div class="add-icon">
+          <i class="fa-solid fa-location-dot"></i>
+          <p class="add-second">Update location</p>
+
+        </div>
+
+
+      </div>
+      <div class="nav-search">
+        <select class="search-select">
+          <option>All</option>
+        </select>
+        <input placeholder="Search Amazon .in" class="search-input">
+        <div class="search-icon">
+          <i class="fa-solid fa-magnifying-glass"></i>
+          <div class="nav-signin border"></div>
+          <p><span>Hello,sign in</span></p>
+          <p class="nav-second">Account & list </p>
+        </div>
+
+        <div class="nav-return border ">
+          <p><span>Returns</span></p>
+          <p class="nav-second">& Orders </p>
+        </div>
+
+        <div class="nav-cart border">
+          <i class="fa-solid fa-cart-plus"></i>
+          Cart
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+    <div class="panel">
+      <div class="panel-all">
+        <i class="fa-solid fa-list-ul"></i>
+        All
+      </div>
+      <div class="panel-option">
+        <p>Fresh </p>
+        <p> MX Player</p>
+        <p> Sell </p>
+        <p> Bestsellime</p>
+        <p>Amazon Pay</p>
+        <p>New Releases</p>
+        <p>Abdul Majid bhaiya</p>
+        <p>Abdul Wahid bhaiya</p>
+      </div>
+
+    </div>
+  </header>
+
+  <div class="amazon prime"><a href="#"><img
+        src="https://m.media-amazon.com/images/G/31/AmazonVideo/2021/X-site/SingleTitle/December2025/Thamma-ent/400x39_SWM_NP._CB776835037_.jpg"
+        alt="amazon prime"></a></div>
+  </div>
+  </div>
+  <div class="product_start">
+    <a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/G/31/INSLGW/af_pc_2x._CB792409181_.jpg"
+        alt="prouct 1"></a>
+    <a href="#"><img
+        src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/Beauty/GW/yesbank/makeup_PC._CB796616147_.png"
+        alt="prouct 2"></a>
+    <a href="#"><img
+        src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/Consumables/X-GL/Feb5/PC_Hero_1_3000._CB582457311_.jpg"
+        alt="prouct 3"></a>
+    <a href="#"><img
+        src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Unrec/TallHero_3000X1200_Unrec._CB593464763_.jpg"
+        alt="prouct 4"></a>
+  </div>
+  <div class="box">
+    <div>
+      <h2>Continue shopping deals</h2>
+      <div style="display: flex;justify-content: space-between;">
+        <img src="https://m.media-amazon.com/images/I/81OxirWitAL._AC_SY145_.jpg" alt="product 1">
+        <img src="https://m.media-amazon.com/images/I/612FuICrCCL._AC_SY145_.jpg" alt="product 3">
+      </div>
+      <div style="display: flex;justify-content: space-between;">
+        <img src="https://m.media-amazon.com/images/I/81OxirWitAL._AC_SY145_.jpg" alt="product 2">
+        <img src="https://m.media-amazon.com/images/I/61yp3ndG1JL._AC_SY145_.jpg" alt="product 4">
+      </div>
+    </div>
+
+    <div class="box box2">
+      <div>
+        <h2>Revamp your home in style</h2>
+        <div>
+          <img
+            src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_furnishings_2._SY116_CB555624324_.jpg"
+            alt="product 1">
+          <img
+            src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_decor_1._SY116_CB555624324_.jpg"
+            alt="product 2">
+        </div>
+        <div>
+          <img
+            src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_decor_1._SY116_CB555624324_.jpg"
+            alt="product3">
+          <img
+            src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_lighting_2._SY116_CB555624324_.jpg"
+            alt="product 4">
+        </div>
+      </div>
+    </div>
+    <div class="box box3">
+      <div>
+        <h2>Bulk order discounts + Up to 18% GST savings</h2>
+        <div>
+          <img
+            src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img25/nov/bau/ain/gw/Laptops_186_116_10._SY116_CB777673831_.jpg"
+            alt="product1">
+          <img
+            src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img25/nov/bau/ain/gw/KitchenAppliances_186_116_10._SY116_CB777673831_.jpg"
+            alt="">
+        </div>
+        <div>
+          <img
+            src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img25/nov/bau/ain/gw/OfficeChairs_186_116_10._SY116_CB777673831_.jpg"
+            alt="">
+          <img
+            src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img25/dec/bau/ain/gw/ABdelivery_186_116._SY116_CB776314701_.jpg"
+            alt="">
+        </div>
+        
+      </div> 
+    </div>
+  </div>
+
+
+
+</body>
+
+</html>
